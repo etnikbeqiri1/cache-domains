@@ -1,0 +1,13 @@
+play.googleapis.com
+play.google.com
+lh3.googleusercontent.com
+android.clients.google.com
+play-lh.googleusercontent.com
+play-music-upload.google.com
+play.googleapis.com.akadns.net
+play.googleapis.com.edgekey.net
+play.googleapis.com.akamaiedge.net
+ggpht.com
+ytimg.com
+*.ggpht.com
+*.ytimg.com
