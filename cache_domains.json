@@ -8,12 +8,12 @@
 		{
 			"name": "apple",
 			"description": "Apple Store CDNs",
-			"domain_files": ["apple_cdn_domains.txt"]
+			"domain_files": ["apple.txt"]
 		},
 		{
 			"name": "google",
 			"description": "Google Play Store CDNs",
-			"domain_files": ["google_play_store_cdn_domains.txt"]
+			"domain_files": ["google.txt"]
 		},
 		{
 			"name": "arenanet",
