@@ -15,6 +15,7 @@ aod-mp.itunes-apple.com.akadns.net
 cdn.apple-cloudkit.com
 cvws.icloud-content.com
 cvws.icloud-content.com.akadns.net
+appleid.cdn-apple.com
 *.mzstatic.com
 *.apple.com
 *.akadns.net
