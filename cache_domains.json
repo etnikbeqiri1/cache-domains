@@ -6,6 +6,16 @@
 			"domain_files": ["arch.txt"]
 		},
 		{
+			"name": "apple",
+			"description": "Apple Store CDNs",
+			"domain_files": ["apple_cdn_domains.txt"]
+		},
+		{
+			"name": "google",
+			"description": "Google Play Store CDNs",
+			"domain_files": ["google_play_store_cdn_domains.txt"]
+		},
+		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
 			"domain_files": ["arenanet.txt"]
